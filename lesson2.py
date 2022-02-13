@@ -1,4 +1,5 @@
-# Attributes of class
+# 1.2 Атрибуты класса
+
 class Person:
     name = 'Ivan'
     age = 30
