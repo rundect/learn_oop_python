@@ -7,3 +7,10 @@ https://stepik.org/course/72969/
 
 Lesson 5
 https://www.youtube.com/watch?v=7kk2gRf8Uws
+
+Lesson 6
+https://stepik.org/course/72969/
+
+Lesson7
+https://www.youtube.com/watch?v=77kW3F9ZBHI
+https://younglinux.info/oopython/staticmethod
