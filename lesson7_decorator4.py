@@ -45,9 +45,13 @@ print()
 print('***Перезаписали a_stand_alone_function()***')
 print()
 
+# Наверное, теперь мы бы хотели, чтобы каждый раз, во время вызова a_stand_alone_function, вместо неё вызывалась
+# a_stand_alone_function_decorated. Нет ничего проще, просто перезапишем a_stand_alone_function функцией, которую
+# нам вернул my_shiny_new_decorator:
+
 a_stand_alone_function = my_shiny_new_decorator(a_stand_alone_function)
 a_stand_alone_function()
-#выведет:
+# выведет:
 # Я - код, который отработает до вызова функции
 # Я простая одинокая функция, ты ведь не посмеешь меня изменять?..
 # А я - код, срабатывающий после
@@ -56,9 +60,10 @@ print()
 print('***Перезаписали с использованием декораторов***')
 print()
 
+
 # @decorator - просто синтаксический сахар для конструкций вида
 # another_stand_alone_function = my_shiny_new_decorator(another_stand_alone_function)
-
+# Вот так можно было записать предыдущий пример, используя синтаксис декораторов:
 @my_shiny_new_decorator
 def another_stand_alone_function():
     print("Оставь меня в покое")

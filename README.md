@@ -20,6 +20,7 @@ https://stepik.org/course/72969/
 https://www.youtube.com/watch?v=77kW3F9ZBHI
 https://younglinux.info/oopython/staticmethod
 https://habr.com/ru/post/141411/
+https://habr.com/ru/post/141501/
 
 ###Lesson8
 
