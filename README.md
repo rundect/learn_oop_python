@@ -14,6 +14,7 @@ https://stepik.org/course/72969/
 Lesson7
 https://www.youtube.com/watch?v=77kW3F9ZBHI
 https://younglinux.info/oopython/staticmethod
+https://habr.com/ru/post/141411/
 
 Lesson8
 https://stepik.org/course/72969/
@@ -26,4 +27,7 @@ https://habr.com/ru/post/444338/
 Lesson10 Геттеры и сеттеры, property атрибуты
 https://www.youtube.com/watch?v=WP2sqI2BkeY
 https://www.youtube.com/watch?v=zwel95I7O88
+
+Lesson11
+https://stepik.org/course/72969/
 
