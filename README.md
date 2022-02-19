@@ -28,6 +28,7 @@ https://habr.com/ru/post/444338/
 ### Lesson10 Геттеры и сеттеры, property атрибуты
 https://www.youtube.com/watch?v=WP2sqI2BkeY
 https://www.youtube.com/watch?v=zwel95I7O88
+https://habr.com/ru/company/otus/blog/557804/
 
 ### Lesson11
 https://stepik.org/course/72969/
