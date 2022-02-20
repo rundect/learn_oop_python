@@ -33,3 +33,8 @@ https://habr.com/ru/company/otus/blog/557804/
 ### Lesson11
 https://stepik.org/course/72969/
 
+### Lesson12
+https://stepik.org/course/72969/
+
+### Lesson13
+https://stepik.org/course/72969/
