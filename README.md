@@ -38,3 +38,15 @@ https://stepik.org/course/72969/
 
 ### Lesson13
 https://stepik.org/course/72969/
+https://webdevblog.ru/obyasnenie-classmethod-i-staticmethod-v-python/
+https://www.youtube.com/watch?v=rZY9CJn1y2E
+
+### Lesson14
+https://stepik.org/course/72969/
+
+### Lesson15
+https://www.youtube.com/watch?v=ury9pdPXa6s
+
+
+
+
