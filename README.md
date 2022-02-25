@@ -47,6 +47,6 @@ https://stepik.org/course/72969/
 ### Lesson15
 https://www.youtube.com/watch?v=ury9pdPXa6s
 
-
-
+### Lesson16 __str__ и __repr__
+https://stepik.org/lesson/361906/step/1?unit=346444
 
