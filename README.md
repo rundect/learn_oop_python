@@ -44,9 +44,31 @@ https://www.youtube.com/watch?v=rZY9CJn1y2E
 ### Lesson14
 https://stepik.org/course/72969/
 
-### Lesson15
+### Lesson14_practice
 https://www.youtube.com/watch?v=ury9pdPXa6s
 
-### Lesson16 __str__ и __repr__
+### Lesson15 __str__ и __repr__
 https://stepik.org/lesson/361906/step/1?unit=346444
+
+### Lesson16 __str__, __repr__, __len__, __abs__
+https://www.youtube.com/watch?v=F7KxC6JTmsc
+
+### Lesson17 __add__, __mul__, __sub__, __truediv__
+https://stepik.org/course/72969/
+
+### Lesson18 __eq__, __ne__, __lt__, __gt__, __ge__
+
+
+### Lesson19
+https://stepik.org/course/72969/
+
+
+
+
+
+
+
+
+
+
 
