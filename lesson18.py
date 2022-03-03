@@ -13,7 +13,6 @@ class Clock:
     def __verify_data(cls, other):
         if not isinstance(other, (int, Clock)):
             raise TypeError('Операнд справа должен иметь тип int или Clock')
-
         return other if isinstance(other, int) else other.seconds
 
     def __eq__(self, other):
@@ -40,7 +39,7 @@ print(c1 != 1200)
 print(c1 != c2)
 print(c1 < c2)
 print(c1 <= c2)
-
+print(c1 < [1, 2])
 
 
 

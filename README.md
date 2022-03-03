@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=F7KxC6JTmsc
 https://stepik.org/course/72969/
 
 ### Lesson18 __eq__, __ne__, __lt__, __gt__, __ge__
-
+https://www.youtube.com/watch?v=l3jMyZKDxXE
 
 ### Lesson19
 https://stepik.org/course/72969/
