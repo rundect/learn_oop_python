@@ -33,15 +33,15 @@ class BankAccount:
 
 
 b = BankAccount('ivan', 900)
-print(id(b))
-d = b+30
-print(id(d), d)
+# print(id(b))
+# d = b+30
+# print(id(d), d)
 # print(b.balance + 400)
 # print(b.balance)
 # print(b + 300.0)
 #
-# r = BankAccount('Tany', 0.500)
-# print(b+r)
+r = BankAccount('Tany', 0.500)
+print(b+r)
 # print(12+r)
 #
 # print(r*3)
