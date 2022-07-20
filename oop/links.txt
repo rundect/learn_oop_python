@@ -1,0 +1,14 @@
+# 1. Python ООП
+# https://proproprogs.ru/python_oop
+
+# 2. Объектно-ориентированное программирование (ООП) на Python 3
+# https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E
+
+
+
+
+
+
+
+
+
